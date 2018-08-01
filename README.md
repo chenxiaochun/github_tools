@@ -23,3 +23,14 @@
 
 * [react-dnd](https://github.com/react-dnd/react-dnd)
 * [react-draggable](https://github.com/mzabriskie/react-draggable)
+
+## 轮播图
+
+### ReactJS
+
+* [react-slick](https://github.com/akiran/react-slick)
+
+## blog
+
+* [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
+* [前端精读周刊](https://github.com/dt-fe/weekly)
