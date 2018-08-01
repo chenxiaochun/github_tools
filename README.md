@@ -1,6 +1,6 @@
 ## 动画库
 
-### Javascript
+### JavaScript
 
 * [Three JS](https://github.com/mrdoob/three.js)
 * [anime](https://github.com/juliangarnier/anime)
@@ -15,7 +15,7 @@
 
 ## 元素拖动
 
-### Javascript
+### JavaScript
 
 * [interact](https://github.com/taye/interact.js)
 
