@@ -12,6 +12,9 @@
 8 | [vivus](https://github.com/maxwellito/vivus) | JavaScript
 9 | [GreenSock-JS](https://github.com/greensock/GreenSock-JS) | JavaScript
 10 | [aos](https://github.com/michalsnik/aos) | JavaScript
+11 | [react-overdrive] (https://github.com/berzniz/react-overdrive) | ReactJS
+12 | [moveTo](https://hsnaydd.github.io/moveTo/demo/)  | JavaScript
+
 
 ## 元素拖动
 
@@ -26,6 +29,45 @@
 序号 | 工具名称 | 技术实现
 --- | --- | ---
 1 | [react-slick](https://github.com/akiran/react-slick) | ReactJS
+2 | [big picture](https://henrygd.me/bigpicture/) | JavaScript 
+3 | [eaglejs](https://zulko.github.io/eaglejs-demo/#/) | VueJS
+
+## 图表库
+
+序号 | 工具名称 | 技术实现
+--- | --- | ---
+1 | [React Trend](https://unsplash.github.io/react-trend/) | ReactJS
+
+## 游戏框架
+
+序号 | 工具名称 | 技术实现 | 类型
+--- | --- | --- | ---
+1 | [planck.js](http://piqnt.com/planck.js/) | JavaScript | 2D
+
+
+## 用户行为感知
+序号 | 工具名称 | 技术实现
+--- | --- | ---
+1 | [Reactive Listener](https://zurb.com/playground/reactive-animation-listener#) | JavaScript
+
+## css响应式布局库
+
+序号 | 工具名称
+--- | ---
+1 | [TentCSS](https://css.sitetent.com/)
+
+## 字体图标库
+
+序号 | 工具名称
+--- | ---
+1 | [Rpg-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/)
+
+## 其它
+
+序号 | 工具名称 | 技术实现
+--- | --- | ---
+1 | [pushy-buttons](https://iraul.github.io/pushy-buttons/) | css
+2 | [anchorme.js](http://alexcorvi.github.io/anchorme.js/) | JavaScript
 
 ## blog
 
