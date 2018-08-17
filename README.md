@@ -12,7 +12,7 @@
 8 | [vivus](https://github.com/maxwellito/vivus) | JavaScript
 9 | [GreenSock-JS](https://github.com/greensock/GreenSock-JS) | JavaScript
 10 | [aos](https://github.com/michalsnik/aos) | JavaScript
-11 | [react-overdrive] (https://github.com/berzniz/react-overdrive) | ReactJS
+11 | [react-overdrive](https://github.com/berzniz/react-overdrive) | ReactJS
 12 | [moveTo](https://hsnaydd.github.io/moveTo/demo/)  | JavaScript
 
 
