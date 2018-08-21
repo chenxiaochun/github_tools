@@ -64,10 +64,11 @@
 
 ## 其它
 
-序号 | 工具名称 | 技术实现
---- | --- | ---
-1 | [pushy-buttons](https://iraul.github.io/pushy-buttons/) | css
+序号 | 工具名称 | 技术实现 | 说明
+--- | --- | --- | ---
+1 | [pushy-buttons](https://iraul.github.io/pushy-buttons/) | css | css立体交互按钮
 2 | [anchorme.js](http://alexcorvi.github.io/anchorme.js/) | JavaScript
+3 | [](https://github.com/arguiot/TheoremJS) | JavaScript | 数学公式计算
 
 ## blog
 
