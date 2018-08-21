@@ -68,7 +68,9 @@
 --- | --- | --- | ---
 1 | [pushy-buttons](https://iraul.github.io/pushy-buttons/) | css | css立体交互按钮
 2 | [anchorme.js](http://alexcorvi.github.io/anchorme.js/) | JavaScript
-3 | [](https://github.com/arguiot/TheoremJS) | JavaScript | 数学公式计算
+3 | [TheoremJS](https://github.com/arguiot/TheoremJS) | JavaScript | 数学公式计算
+4 | [epicmax](https://epic-spinners.epicmax.co/#/) | VueJS | 加载动画
+5 | [nanoid](https://github.com/ai/nanoid) | JavaScript | 用来生成唯一ID
 
 ## blog
 
@@ -76,3 +78,4 @@
 --- | ---
 1 | [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
 2 | [前端精读周刊](https://github.com/dt-fe/weekly)
+3 | [程序员技能图谱](https://github.com/TeamStuQ/skill-map) 
