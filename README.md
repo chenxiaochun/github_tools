@@ -80,3 +80,4 @@
 2 | [前端精读周刊](https://github.com/dt-fe/weekly)
 3 | [程序员技能图谱](https://github.com/TeamStuQ/skill-map) 
 4 | [CSS魔法 - 博客](https://github.com/cssmagic/blog)
+5 | [w3ctrain](https://w3ctrain.com/)
