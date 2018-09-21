@@ -1,9 +1,9 @@
 ## 动画库
 
-序号 | 工具名称 | 技术实现
---- | --- | ---
-1 | [Three JS](https://github.com/mrdoob/three.js) | JavaScript
-2 | [anime](https://github.com/juliangarnier/anime) | JavaScript
+序号 | 工具名称 | 技术实现 | 说明
+--- | --- | --- | ---
+1 | [Three JS](https://github.com/mrdoob/three.js) | JavaScript | JavaScript 3D 库
+2 | [anime](https://github.com/juliangarnier/anime) | JavaScript | JavaScript 动画引擎
 3 | [particles](https://github.com/VincentGarreau/particles.js) | JavaScript
 4 | [scrollreveal](https://github.com/jlmakes/scrollreveal) | JavaScript
 5 | [velocity](https://github.com/julianshapiro/velocity) | JavaScript
