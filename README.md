@@ -73,6 +73,7 @@
 3 | [TheoremJS](https://github.com/arguiot/TheoremJS) | JavaScript | 数学公式计算
 4 | [epicmax](https://epic-spinners.epicmax.co/#/) | VueJS | 加载动画
 5 | [nanoid](https://github.com/ai/nanoid) | JavaScript | 用来生成唯一ID
+6 | [iNotify](https://wangchujiang.com/iNotify/) | JavaScript | 消息提醒
 
 ## blog
 
