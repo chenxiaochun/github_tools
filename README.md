@@ -20,11 +20,12 @@
 
 ## 元素拖动
 
-序号 | 工具名称 | 技术实现
---- | --- | ---
+序号 | 工具名称 | 技术实现 | 说明
+--- | --- | --- | ---
 1 | [interact](https://github.com/taye/interact.js)  | JavaScript
 2 | [react-dnd](https://github.com/react-dnd/react-dnd) | ReactJS
 3 | [react-draggable](https://github.com/mzabriskie/react-draggable) | ReactJS
+4 | [react-dropzone](https://github.com/react-dropzone/react-dropzone) | ReactJS | 拖动文件上传
 
 ## 轮播图
 
