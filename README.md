@@ -85,3 +85,12 @@
 3 | [程序员技能图谱](https://github.com/TeamStuQ/skill-map) 
 4 | [CSS魔法 - 博客](https://github.com/cssmagic/blog)
 5 | [w3ctrain](https://w3ctrain.com/)
+6 | [iNotify](https://wangchujiang.com/iNotify/) | JavaScript | 消息提醒
+
+## 书籍库
+
+序号 | 项目链接
+--- | ---
+1 | https://github.com/woai3c/recommended-books
+2 | https://github.com/royeo/awesome-programming-books/
+
