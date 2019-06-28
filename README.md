@@ -41,6 +41,12 @@
 --- | --- | ---
 1 | [React Trend](https://unsplash.github.io/react-trend/) | ReactJS
 
+## IndexDB
+
+序号 | 工具名称 | 技术实现
+--- | --- | ---
+1 | [exie.js](https://github.com/dfahlander/Dexie.js/) | 
+
 ## 游戏框架
 
 序号 | 工具名称 | 技术实现 | 类型
