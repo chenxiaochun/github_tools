@@ -45,7 +45,7 @@
 
 序号 | 工具名称 | 技术实现
 --- | --- | ---
-1 | [exie.js](https://github.com/dfahlander/Dexie.js/) | 
+1 | [Dexie.js](https://github.com/dfahlander/Dexie.js/) | 
 
 ## 游戏框架
 
