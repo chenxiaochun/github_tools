@@ -41,6 +41,7 @@
 序号 | 工具名称 | 技术实现
 --- | --- | ---
 1 | [React Trend](https://unsplash.github.io/react-trend/) | ReactJS
+2 | [GoJS](https://gojs.net/latest/index.html) | JavaScript
 
 ## 本地存储
 
