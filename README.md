@@ -17,6 +17,7 @@
 13 | [vivus](https://maxwellito.github.io/vivus/) | svg
 14 | [GreenSock-JS](https://github.com/greensock/GreenSock-JS) |
 15 | [matter.js](https://github.com/liabru/matter-js) | 
+16 | [Shuffle](https://vestride.github.io/Shuffle/#sorting) | JavaScript | 可以用来制作排序动画
 
 
 ## 元素拖动
