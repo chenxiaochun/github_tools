@@ -4,7 +4,7 @@
 --- | --- | --- | ---
 1 | [Three JS](https://github.com/mrdoob/three.js) | JavaScript | JavaScript 3D 库
 2 | [anime](https://github.com/juliangarnier/anime) | JavaScript | JavaScript 动画引擎
-3 | [particles](https://github.com/VincentGarreau/particles.js) | JavaScript
+3 | [tsparticles](https://particles.matteobruni.it/) | JavaScript
 4 | [scrollreveal](https://github.com/jlmakes/scrollreveal) | JavaScript
 5 | [velocity](https://github.com/julianshapiro/velocity) | JavaScript
 6 | [popmotion](https://github.com/Popmotion/popmotion) | JavaScript
