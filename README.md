@@ -103,4 +103,5 @@
 --- | ---
 1 | https://github.com/woai3c/recommended-books
 2 | https://github.com/royeo/awesome-programming-books/
+3 | https://github.com/QMHTMY/RustBook
 
