@@ -81,17 +81,6 @@
 --- | ---
 1 | [react-big-calendar](https://github.com/jquense/react-big-calendar)
 
-## 其它
-
-序号 | 工具名称 | 技术实现 | 说明
---- | --- | --- | ---
-1 | [pushy-buttons](https://iraul.github.io/pushy-buttons/) | css | css立体交互按钮
-2 | [anchorme.js](http://alexcorvi.github.io/anchorme.js/) | JavaScript | 自动识别文本中的url、链接和邮箱地址，并将它们转换成可点击的html链接
-3 | [TheoremJS](https://github.com/arguiot/TheoremJS) | JavaScript | 数学公式计算
-4 | [epicmax](https://epic-spinners.epicmax.co/#/) | VueJS | 加载动画
-5 | [nanoid](https://github.com/ai/nanoid) | JavaScript | 用来生成唯一ID
-6 | [iNotify](https://wangchujiang.com/iNotify/) | JavaScript | 消息提醒
-
 ## blog
 
 序号 | 项目链接
@@ -110,4 +99,19 @@
 1 | https://github.com/woai3c/recommended-books
 2 | https://github.com/royeo/awesome-programming-books/
 3 | https://github.com/QMHTMY/RustBook
+
+## 其它
+
+序号 | 工具名称 | 技术实现 | 说明
+--- | --- | --- | ---
+1 | [pushy-buttons](https://iraul.github.io/pushy-buttons/) | css | css立体交互按钮
+2 | [anchorme.js](http://alexcorvi.github.io/anchorme.js/) | JavaScript | 自动识别文本中的url、链接和邮箱地址，并将它们转换成可点击的html链接
+3 | [TheoremJS](https://github.com/arguiot/TheoremJS) | JavaScript | 数学公式计算
+4 | [epicmax](https://epic-spinners.epicmax.co/#/) | VueJS | 加载动画
+5 | [nanoid](https://github.com/ai/nanoid) | JavaScript | 用来生成唯一ID
+6 | [iNotify](https://wangchujiang.com/iNotify/) | JavaScript | 消息提醒
+7 | [regex.ai](https://regex.ai/) | | 使用 ai 生成正则表达式
+8 | [gcoord](https://github.com/hujiulong/gcoord) | | 一个处理地理坐标系的js库，用来修正百度地图、高德地图及其它互联网地图坐标系不统一的问题
+9 | [img2ascii](http://www.atool.org/img2ascii.php) | | 在线图片转化成ASCII字符串工具 - aTool在线工具
+10 | [bigjpg](http://bigjpg.com/) | | 使用 ai 智能图片放大
 
